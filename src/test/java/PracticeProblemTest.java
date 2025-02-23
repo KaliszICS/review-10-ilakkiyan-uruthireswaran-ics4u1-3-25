@@ -54,7 +54,7 @@ void pyramidTest3() {
 
 
     catch (NoSuchMethodException e) {
-        fail("Method does not exist");
+        fail("Method does/ not exist");
 }
     catch(Exception e) {
         fail("Something weird happened");
